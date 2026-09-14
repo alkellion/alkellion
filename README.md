@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, now i'm working on Lead-Generator based on Telegram API project 👋
 
 <!--
 **alkellion/alkellion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
